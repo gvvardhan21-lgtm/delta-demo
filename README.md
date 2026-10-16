@@ -5,5 +5,5 @@ This is Demo for Git.
 We are learning GitHub.
 
 # Example
-We are doing all this for explnation
+We are doing all this for explnation.
 
